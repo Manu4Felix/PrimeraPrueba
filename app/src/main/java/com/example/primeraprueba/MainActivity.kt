@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PrimeraPruebaTheme {
-                Ejercicio2_CalculoIMC()
+                Ejercicio3_AdivinaNumeroSecreto()
             }
         }
     }
