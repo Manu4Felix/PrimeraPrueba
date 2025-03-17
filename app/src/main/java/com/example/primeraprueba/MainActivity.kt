@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PrimeraPruebaTheme {
-                Ejercicio3_AdivinaNumeroSecreto()
+                Ejercicio6_Lemonade()
             }
         }
     }
@@ -237,13 +237,4 @@ fun Greeting(modifier: Modifier = Modifier) {
 
     )
 
-}
-
-
-@Preview(showBackground = true, showSystemUi = true)
-@Composable
-fun Pruebas() {
-    PrimeraPruebaTheme {
-        Ejercicio2_CalculoIMC()
-    }
 }
