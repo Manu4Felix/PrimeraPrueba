@@ -69,18 +69,7 @@ fun Ejercicio6_Lemonade() {
             fontWeight = FontWeight.Bold
         )
     }
-
-
-
 }
 
 
 
-
-@Preview(showBackground = true, showSystemUi = true)
-@Composable
-fun Pruebas() {
-    PrimeraPruebaTheme {
-        Ejercicio6_Lemonade()
-    }
-}

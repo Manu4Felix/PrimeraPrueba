@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PrimeraPruebaTheme {
-                Ejercicio6_Lemonade()
+                Ejercicio7_Dados()
             }
         }
     }
